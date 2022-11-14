@@ -1,0 +1,6 @@
+[submodule "Bootstrap-Dropdowns"]
+	path = Bootstrap-Dropdowns
+	url = https://github.com/JakeTeach/Bootstrap-Dropdowns.git
+[submodule "Bootstrap-Sidebars"]
+	path = Bootstrap-Sidebars
+	url = https://github.com/JakeTeach/Bootstrap-Sidebars.git
