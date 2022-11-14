@@ -4,3 +4,6 @@
 [submodule "Bootstrap-Sidebars"]
 	path = Bootstrap-Sidebars
 	url = https://github.com/JakeTeach/Bootstrap-Sidebars.git
+[submodule "Bootstrap-Footers"]
+	path = Bootstrap-Footers
+	url = https://github.com/JakeTeach/Bootstrap-Footers.git
