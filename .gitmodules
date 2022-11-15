@@ -13,3 +13,6 @@
 [submodule "Bootstrap_Heroes"]
 	path = Bootstrap_Heroes
 	url = https://github.com/JakeTeach/Bootstrap_Heroes.git
+[submodule "Bootstrap_Headers"]
+	path = Bootstrap_Headers
+	url = https://github.com/JakeTeach/Bootstrap_Headers.git
