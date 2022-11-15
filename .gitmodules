@@ -7,3 +7,6 @@
 [submodule "Bootstrap-Footers"]
 	path = Bootstrap-Footers
 	url = https://github.com/JakeTeach/Bootstrap-Footers.git
+[submodule "Bootstrap-Features"]
+	path = Bootstrap-Features
+	url = https://github.com/JakeTeach/Bootstrap-Features.git
