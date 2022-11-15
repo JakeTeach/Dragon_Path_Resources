@@ -10,3 +10,6 @@
 [submodule "Bootstrap-Features"]
 	path = Bootstrap-Features
 	url = https://github.com/JakeTeach/Bootstrap-Features.git
+[submodule "Bootstrap_Heroes"]
+	path = Bootstrap_Heroes
+	url = https://github.com/JakeTeach/Bootstrap_Heroes.git
